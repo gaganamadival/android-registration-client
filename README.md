@@ -44,4 +44,4 @@ Reference Android Registration Client Software - WIP
 # Performing Offline Login
     1. After performing online login and master data sync, a hashed value of the password will be saved in the db.
     2. So if the user provides offline login, then the hashed value for password will be checked and matched with the entered password value.
-    3. If the value matches, then the user is able to perform offline login, else screen will display required error messages.
+    3. If the value matches, then the user is able to perform offline login, else screen will display required error messages..
